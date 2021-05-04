@@ -1,6 +1,6 @@
 # Obsidian Indentation Line Plugin
 
-## Creates connection-lines for ordered and unordered lists regardless of nesting etc.
+#### Creates connection-lines for ordered and unordered lists regardless of nesting etc.
 
 #### Requires no setup, just install and activate in Obsidian:
 > Settings > Community Plugins > Safe Mode > 'Off'<br/>
