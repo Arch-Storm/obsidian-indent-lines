@@ -4,7 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.9.8",
 	"description": "Creates connection-lines for ordered and unordered lists regardless of nesting etc.",
-	"author": "Arch-Storm",
+	"author": "Nikolas Sturm",
 	"authorUrl": "https://github.com/Arch-Storm",
 	"isDesktopOnly": true
 }
