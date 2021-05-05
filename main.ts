@@ -1,4 +1,4 @@
-import { App, Modal, Notice, Plugin } from 'obsidian';
+import { Plugin } from 'obsidian';
 
 export default class MyPlugin extends Plugin {
 	async onload() {
