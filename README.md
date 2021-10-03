@@ -1,4 +1,8 @@
-# Obsidian Indentation Line Plugin
+# This seems to break a ton of stuff and I recently started studying and do not have the time to maintain this. Sry
+
+---
+
+### Obsidian Indentation Line Plugin
 
 #### Creates connection-lines for ordered and unordered lists regardless of nesting etc.
 
